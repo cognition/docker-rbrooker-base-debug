@@ -1,4 +1,4 @@
-Base Image Docker Container
+DEBUG Base Image Docker Container
 ======================
 
 stubs
